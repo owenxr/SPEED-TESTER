@@ -1,0 +1,9 @@
+TEST_RUNNER::
+- JUnit 5
+::
+BUILD_COMMANDS::
+- ./gradlew assemble testClasses
+::
+TEST_PATHS::
+- org.example.CalcTest
+::

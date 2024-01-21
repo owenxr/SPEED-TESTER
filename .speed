@@ -5,5 +5,7 @@ BUILD_COMMANDS::
 - ./gradlew assemble testClasses
 ::
 TEST_PATHS::
-- org.example.CalcTest
+- org.example.CalcTest1
+- org.example.CalcTest2
+- org.example.CalcTest3
 ::
